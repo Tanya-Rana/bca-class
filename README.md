@@ -1,4 +1,4 @@
 # bca-class
 this is my fist git page
 <br>
-author - tanya
+author - tanya 1st 
